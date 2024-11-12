@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/chip_design/commoncore/digitaldesign/cx203-lab01/task1/task1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/cx203-lab01/task1/task1.srcs/sim_1/new/testbensh.sv,1731326064,systemVerilog,,,,tb_andgate,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/cx203-lab01/task1/task1.srcs/sources_1/new/andgate.sv,1731326064,systemVerilog,,/home/it/task1-4bit/task1-4bit.srcs/sim_1/new/benchtest.sv,,andgate,,,,,,,,
+/home/it/task1-4bit/task1-4bit.srcs/sim_1/new/benchtest.sv,1731406170,systemVerilog,,,,benchtest,,,,,,,,
+/home/it/task1-4bit/task1-4bit.srcs/sources_1/new/and4gate.sv,1731405871,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/cx203-lab01/task1/task1.srcs/sources_1/new/andgate.sv,,and4gate,,,,,,,,

@@ -1,0 +1,9 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time	 a	 b	 f
+------------------------
+10000	 0	 0	 00
+20000	 0	 1	 10
+30000	 1	 0	 10
+40000	 1	 1	 01
+$finish called at time : 40 ns : File "/home/it/chip_design/commoncore/digitaldesign/cx203-lab01/task2/task2.srcs/sim_1/new/tb_halfadder.sv" Line 50

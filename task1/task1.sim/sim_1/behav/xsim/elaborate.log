@@ -1,0 +1,10 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/it/Xilinx/Vivado/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto 4102a3bb1a9e46cfa656dc88587660d3 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot benchtest_behav xil_defaultlib.benchtest xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-3180] cannot find port 'SW3' on this module [/home/it/task1-4bit/task1-4bit.srcs/sim_1/new/benchtest.sv:32]
+ERROR: [VRFC 10-3180] cannot find port 'SW2' on this module [/home/it/task1-4bit/task1-4bit.srcs/sim_1/new/benchtest.sv:31]
+ERROR: [VRFC 10-3180] cannot find port 'SW1' on this module [/home/it/task1-4bit/task1-4bit.srcs/sim_1/new/benchtest.sv:30]
+ERROR: [VRFC 10-3180] cannot find port 'SW0' on this module [/home/it/task1-4bit/task1-4bit.srcs/sim_1/new/benchtest.sv:29]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

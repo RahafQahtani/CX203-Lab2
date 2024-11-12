@@ -1,0 +1,13 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time	 a	 b	 f
+------------------------
+10000	 0	 0	 000
+20000	 0	 0	 110
+30000	 0	 1	 010
+40000	 0	 1	 101
+50000	 1	 0	 010
+60000	 1	 0	 101
+70000	 1	 1	 001
+80000	 1	 1	 111
+$finish called at time : 80 ns : File "/home/it/chip_design/commoncore/digitaldesign/cx203-lab01/project_1/project_1.srcs/sim_1/new/tb_fulladder.sv" Line 60

@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/chip_design/commoncore/digitaldesign/cx203-lab2/task4/task4.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/cx203-lab2/task4/task4.srcs/sim_1/new/tb_fourbitadder.sv,1731422797,systemVerilog,,,,tb_fourbitadder,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/cx203-lab2/task4/task4.srcs/sources_1/new/fourbit_adder.sv,1731421752,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/cx203-lab2/task4/task4.srcs/sources_1/new/fulladder1.sv,,fourbit_adder,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/cx203-lab2/task4/task4.srcs/sources_1/new/fulladder1.sv,1731411340,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/cx203-lab2/task4/task4.srcs/sources_1/new/halfadder.sv,,fulladder1,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/cx203-lab2/task4/task4.srcs/sources_1/new/halfadder.sv,1731411340,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/cx203-lab2/task4/task4.srcs/sim_1/new/tb_fourbitadder.sv,,halfadder,,,,,,,,
